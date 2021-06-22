@@ -1,0 +1,39 @@
+header{
+    text-align: center;
+    font-size: 250%;
+    background-color: black;
+    color: white;
+    margin-bottom: 5%;
+}
+
+
+body{
+    background-image: url(../img/school.jpg);
+}
+
+
+
+table{
+    
+        border: 1px solid black;
+      }
+
+
+    main{
+        width: 100%;
+    }
+
+
+#div1{
+    width: 50%;
+    float: left;
+    background-color: rgb(167, 141, 192);
+
+}
+
+#div2{
+    width: 50%;
+    float: right;
+    background-color: rgb(167, 141, 192);
+
+}
